@@ -6,40 +6,45 @@ PERANCANGAN ALGORITMA (PSEUDOCODE)
 
 A. IDENTITAS SISWA
 
-Nama Lengkap :
-Kelas        :
-Nomor Absen  :
-Username GitHub :
+Nama Lengkap :Muhamad Damai Pratama
+Kelas        :XII-9
+Nomor Absen  :21
+Username GitHub :MuhamadDamaipratama
 
 B. JUDUL PROGRAM
 
-Tuliskan judul program yang akan dibuat.
+Program menghitung luas persegi panjang
 
 C. DESKRIPSI MASALAH
 
-Jelaskan permasalahan yang ingin diselesaikan
-menggunakan program.
+Program ini dibuat untuk menghitung luas persegi panjang berdasarkan nilai panjang dan lebar yang dimasukkan oleh pengguna
 
 D. TUJUAN PROGRAM
 
-Jelaskan tujuan dan manfaat program yang dibuat.
+Membantu pengguna menghitung luas persegi panjang secara cepat dan tepat
 
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
 1. INPUT:
-   Tuliskan data yang dimasukkan pengguna.
+   - input panjang persegi panjang (p)
+   - input lebar persegi panjang (l)
 
 2. PROSES:
-   Tuliskan langkah pengolahan atau perhitungan
-   yang dilakukan program.
+   - perhitungan luas persegi panjang 
+   - rumus luas persegi panjang = p*l
 
 3. OUTPUT:
-   Tuliskan hasil yang akan ditampilkan program.
+   - tampil hasil luas persegi panjang
 
 F. ALGORITMA / PSEUDOCODE
+MULAI
+1. Deklarasi variabel  luas, panjang, lebar
+2. input nilai panjang persegi panjang
+3. input nilai lebar persegi panjang
+4. hitung luas persegi panjang  ( L = p*l)
+5. tampilkan hasil luas persegi panjang
+SELESAI
 
-Tuliskan langkah-langkah algoritma secara
-sistematis dan logis.
 
 MULAI
 
